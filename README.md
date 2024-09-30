@@ -6,7 +6,7 @@ Tugas mengerjakan latihan pada module Pemrograman Web
 ### Langkah Pertama
 1. Persiapan membuka VSCode dan Browser
 2. Kemudian buat file baru dengan nama lab1_tag_dasar.html dan tambahkan tag dasar dokumen HTML.
-![alt text](https://github.com/Ainun27/Lab1Web/blob/main/tugas/Screenshot%20(320).png?raw=true)
+![alt text](https://github.com/Ainun27/Lab1Web/blob/main/tugas/Screenshot%202024-09-30%20173027.png?raw=true)
 3. Kemudian selanjutnya, buka file tersebut pada web browser misalnya Mozilla Firefox
 ![alt text](https://github.com/Ainun27/Lab1Web/blob/main/tugas/Screenshot%20(324).png?raw=true)
 #### Membuat Paragraf

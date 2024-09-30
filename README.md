@@ -97,6 +97,21 @@ Selanjutnya silakan ubah-ubah nilai atributnya (align => justify, left, right, d
 ```
 ![alt text](https://github.com/Ainun27/Lab1Web/blob/main/tugas/Screenshot%20(331).png?raw=true)
 
+## Pertanyaan 
+1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
+2. Apa perbedaan dari tag <p> dengan tag <br>, berikan penjelasannya!
+3. Apa perbedaan atribut title dan alt pada tag <img>, berikan penjelasannya!
+4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
+5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank,_self, _top, _parent ), apa yang terjadi pada masing-masing nilai antribut tersebut?
 
-
+## Jawaban
+1. Saya tidak mengalami eror ataupun salah dalam penulisan tag.
+2. <p>: Membuat paragraf dengan spasi di atas dan di bawah teks.
+<br>: Memulai baris baru tanpa menambah spasi.
+3. alt: Ditampilkan saat gambar gagal dimuat atau untuk pembaca layar.
+title: Ditampilkan sebagai tooltip ketika kursor diarahkan ke gambar.
+4. Agar gambar tetap proporsional, cukup isi satu dari atribut width atau height, sehingga browser otomatis menyesuaikan dimensi lainnya berdasarkan rasio asli gambar.
+5. Setiap nilai atribut target pada tag <a> memiliki fungsi yang berbeda untuk mengontrol bagaimana link dibuka. _blank: Tab/jendela baru.
+_self: Tab/jendela saat ini. _top: Jendela penuh, keluar dari semua frame.
+_parent: Frame induk dari frame saat ini.
    

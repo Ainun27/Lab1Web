@@ -111,7 +111,5 @@ Selanjutnya silakan ubah-ubah nilai atributnya (align => justify, left, right, d
 3. alt: Ditampilkan saat gambar gagal dimuat atau untuk pembaca layar.
 title: Ditampilkan sebagai tooltip ketika kursor diarahkan ke gambar.
 4. Agar gambar tetap proporsional, cukup isi satu dari atribut width atau height, sehingga browser otomatis menyesuaikan dimensi lainnya berdasarkan rasio asli gambar.
-5. Setiap nilai atribut target pada tag <a> memiliki fungsi yang berbeda untuk mengontrol bagaimana link dibuka. _blank: Tab/jendela baru.
-_self: Tab/jendela saat ini. _top: Jendela penuh, keluar dari semua frame.
-_parent: Frame induk dari frame saat ini.
+5. Setiap nilai atribut target pada tag <a> memiliki fungsi yang berbeda untuk mengontrol bagaimana link dibuka. _blank: Tab/jendela baru. _self: Tab/jendela saat ini. _top: Jendela penuh, keluar dari semua frame. _parent: Frame induk dari frame saat ini.
    
